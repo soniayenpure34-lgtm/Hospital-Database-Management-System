@@ -1,11 +1,12 @@
-🏥 Hospital Database Management System (SQL Project)
-📌 Project Overview
+## 🏥 Hospital Database Management System (SQL Project)
+## 📌 Project Overview
 
 The Hospital Database Management System is a SQL-based relational database project designed to manage hospital operations efficiently. It handles patient records, doctor information, appointments, treatments, and billing details using structured database design principles.
 
 This project demonstrates practical implementation of database normalization, relationships, constraints, and advanced SQL querying techniques.
 
-🎯 Objectives
+
+## 🎯 Objectives
 
 Design a relational database for hospital management
 
@@ -15,7 +16,8 @@ Perform data manipulation and retrieval operations
 
 Execute complex SQL queries for data analysis
 
-🗂️ Database Tables
+
+## 🗂️ Database Tables
 
 The system includes the following main entities:
 
@@ -33,7 +35,8 @@ Billing
 
 All tables are connected using proper relational constraints.
 
-🛠️ Technologies Used
+
+## 🛠️ Technologies Used
 
 SQL (MySQL)
 
@@ -41,7 +44,9 @@ Relational Database Design
 
 ER Modeling
 
-📊 SQL Concepts Implemented
+
+
+## 📊 SQL Concepts Implemented
 
 CREATE, INSERT, UPDATE, DELETE
 
@@ -55,7 +60,8 @@ Aggregate Functions (COUNT, SUM, AVG)
 
 Subqueries
 
-🚀 How to Run the Project
+
+## 🚀 How to Run the Project
 
 Open MySQL Workbench.
 
@@ -65,7 +71,8 @@ Execute the script to create tables.
 
 Run the queries for analysis.
 
-📚 Learning Outcomes
+
+## 📚 Learning Outcomes
 
 Hands-on experience in relational database design
 
