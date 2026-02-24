@@ -8,76 +8,76 @@ This project demonstrates practical implementation of database normalization, re
 
 ## 🎯 Objectives
 
-Design a relational database for hospital management
+- Design a relational database for hospital management
 
-Implement table relationships using primary and foreign keys
+- Implement table relationships using primary and foreign keys
 
-Perform data manipulation and retrieval operations
+- Perform data manipulation and retrieval operations
 
-Execute complex SQL queries for data analysis
+- Execute complex SQL queries for data analysis
 
 
 ## 🗂️ Database Tables
 
 The system includes the following main entities:
 
-Patients
+- Patients
 
-Doctors
+- Doctors
 
-Departments
+- Departments
 
-Appointments
+- Appointments
 
-Treatments
+- Treatments
 
-Billing
+- Billing
 
 All tables are connected using proper relational constraints.
 
 
 ## 🛠️ Technologies Used
 
-SQL (MySQL)
+- SQL (MySQL)
 
-Relational Database Design
+- Relational Database Design
 
-ER Modeling
+- ER Modeling
 
 
 
 ## 📊 SQL Concepts Implemented
 
-CREATE, INSERT, UPDATE, DELETE
+- CREATE, INSERT, UPDATE, DELETE
 
-PRIMARY KEY & FOREIGN KEY constraints
+- PRIMARY KEY & FOREIGN KEY constraints
 
-INNER JOIN, LEFT JOIN
+- INNER JOIN, LEFT JOIN
 
-GROUP BY & HAVING
+- GROUP BY & HAVING
 
-Aggregate Functions (COUNT, SUM, AVG)
+- Aggregate Functions (COUNT, SUM, AVG)
 
-Subqueries
+- Subqueries
 
 
 ## 🚀 How to Run the Project
 
-Open MySQL Workbench.
+- Open MySQL Workbench.
 
-Import Project_Queries.sql.
+- Import Project_Queries.sql.
 
-Execute the script to create tables.
+- Execute the script to create tables.
 
-Run the queries for analysis.
+- Run the queries for analysis.
 
 
 ## 📚 Learning Outcomes
 
-Hands-on experience in relational database design
+- Hands-on experience in relational database design
 
-Understanding of normalization and relationships
+- Understanding of normalization and relationships
 
-Writing optimized SQL queries
+- Writing optimized SQL queries
 
-Managing structured healthcare data
+- Managing structured healthcare data
